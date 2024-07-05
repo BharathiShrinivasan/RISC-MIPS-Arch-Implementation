@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Bharathi Shrinivasan T R (h20220182@pilani.bits-pilani.ac.in)
 // 
 // Create Date: 14.07.2023 13:01:09
 // Design Name: 

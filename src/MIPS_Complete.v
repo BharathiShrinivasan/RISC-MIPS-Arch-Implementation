@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: BStronics
-// Engineer: Bharathi TR
+// Engineer: Bharathi Shrinivasan T R (h20220182@pilani.bits-pilani.ac.in)
 // 
 // Create Date: 15.07.2023 01:02:29
 // Design Name: 
